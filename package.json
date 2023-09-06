@@ -1,0 +1,7 @@
+{
+  "name": "my-hooks",
+  "exports": {
+    "./loader": "./loader.mjs",
+    "./register": "./register.cjs"
+  }
+}
